@@ -47,7 +47,7 @@ Analyzed and visualized trends in consumer complaints.
 - Preprocessing, visualization, and deriving business insights.
   
 🌦️ Future Climate Prediction Using GAN & CNN
-Predicted Tamil Nadu’s future climate zones using satellite image modeling.
+Predicted future climate zones from satellite images.
 - Used GAN to generate future images (2026–2050) from historical data (2000–2024).
 - Applied CNN to classify images into cold, warm, and severe zones.
 
