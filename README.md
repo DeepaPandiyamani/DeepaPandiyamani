@@ -2,7 +2,7 @@
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
 National Engineering College, Kovilpatti (2022–2026)  
-CGPA: 8.11
+CGPA: 8.08
 
 📫 **Let's connect:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deepa2004)  
@@ -19,7 +19,7 @@ I'm a passionate AI and Data Science student with strong interests in **Machine 
 
 ## 🧠 Technical Skills
 
-- **Languages:** Python, SQL  
+- **Languages:** Python, SQL  ,Java
 - **Libraries/Frameworks:** TensorFlow, Scikit-Learn, OpenCV, Pandas, NumPy, Matplotlib  
 - **Areas of Interest:** Machine Learning, Generative AI, Data Analysis
 
@@ -45,6 +45,11 @@ An AI-powered Gmail-integrated chatbot for efficient email summarization using t
 ### 📊 Consumer Complaint Analysis
 Analyzed and visualized trends in consumer complaints.  
 - Preprocessing, visualization, and deriving business insights.
+  
+🌦️ Future Climate Prediction Using GAN & CNN
+Predicted Tamil Nadu’s future climate zones using satellite image modeling.
+- Used GAN to generate future images (2026–2050) from historical data (2000–2024).
+- Applied CNN to classify images into cold, warm, and severe zones.
 
 ---
 
@@ -69,6 +74,7 @@ Analyzed and visualized trends in consumer complaints.
   - IoT – NPTEL  
   - EDA Workshop – Mepco Schlenk  
   - Data Analytics & Visualization – Forage (Accenture)
+  - Data Analytics and Visualization Job Simulation from Forage(Online)
 
 ---
 
